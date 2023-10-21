@@ -6,6 +6,3 @@ Domain : Java Development Intern
 
 1. BMI Calculator
    
-# Golden Task
-
-3. Fees Management System
